@@ -1,0 +1,16 @@
+-- Chitter db
+
+-- SELECT COUNT(*) FROM chitter_user;
+-- SELECT * FROM chitter_user;
+-- INSERT INTO chitter_user (
+-- 	user_id, username, encrypted_password, email, date_joined
+-- ) VALUES (
+-- 	DEFAULT, 'firstuser', 'd63dc919e2dc30d2', 'fakemail@fakedomain.fake', '2023-04-12'
+-- );
+-- SELECT * FROM chitter_user;
+-- INSERT INTO chitter_user (
+-- 	username, encrypted_password
+-- ) VALUES (
+-- 	'seconduser', 's223sd4234asdf4f'
+-- );
+-- SELECT * FROM chitter_user;
