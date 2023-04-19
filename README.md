@@ -1,6 +1,6 @@
 # **Structured Query Language Practice**
 
-A repository for practicing SQL commands. Some examples inclues how to create new database, create new table, select and query data, insert new data, delete data, join different table together update existing data etc.
+A repository for practicing SQL commands. Some examples inclues how to create new database, create new table, select and query data, insert new data, delete data, join different table together using inner, left, right, full join, create views, creating index & update existing data etc.
 
 # Author
 
